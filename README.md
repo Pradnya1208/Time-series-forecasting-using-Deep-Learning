@@ -22,7 +22,7 @@
 Deep learning methods offer a lot of promise for time series forecasting, such as the automatic learning of temporal dependence and the automatic handling of temporal structures like trends and seasonality.
 
 ## Dataset:
-[Predict Future Slaes](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+[Predict Future Slaes](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)<br>
 [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data)
 #### Data Fields:
 - **ID** - an Id that represents a (Shop, Item) tuple within the test set
