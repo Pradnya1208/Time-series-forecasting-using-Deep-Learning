@@ -14,7 +14,7 @@
 </div>
 
 # <div align="center">Time series forecasting using Deep Learning</div>
-<div align="center"><img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/intro.gif?raw=true" width="60%"></div>
+<div align="center"><img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/intro.gif?raw=true" width="70%"></div>
 
 
 
